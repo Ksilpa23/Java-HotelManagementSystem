@@ -125,12 +125,12 @@ class Reception
 		{
 			case 1:
 					hotel_ob.luxury_doubleroom[rn] = 
-					new Doubleroom(name, contact, gender, name2, contact2, 					gender2);
+					new Doubleroom(name, contact, gender, name2, contact2, gender2);
 					break;
 			
 			case 2:
 					hotel_ob.deluxe_doubleroom[rn] = 
-					new Doubleroom(name, contact, gender, name2, contact2, 					gender2);
+					new Doubleroom(name, contact, gender, name2, contact2, gender2);
 					break;
 					
 			case 3:
